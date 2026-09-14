@@ -32,3 +32,5 @@ Automated Mechanical Beam Analysis
 1. Clone the repository:
    ```bash
   git clone https://github.com/essayoub391-bot/AutoRDM-Beam-Stress-Analyzer.git
+---
+📄 **Documentation:** [Download Full Methodology & Technical PDF](AutoRDM_Technical_Documentation.pdf)
